@@ -1,0 +1,17 @@
+
+BOOK SCRAPING SUMMARY REPORT
+============================
+
+Total Books Scraped: 1000
+
+Average Price: £35.07
+Highest Price: £59.99
+Lowest Price: £10.00
+
+Rating Distribution:
+rating
+One      226
+Three    203
+Five     196
+Two      196
+Four     179
